@@ -1,0 +1,293 @@
+PropertyType,mean,count
+Fire station ,70.81241250583294,4286
+Milking Parlour ,245.8,5
+Bicycle,257.2576590730558,1273
+Town Hall ,271.540415704388,1299
+Theatre ,275.3948717948718,2535
+Military helicopter ,284.0,1
+Police station ,285.5495145631068,3090
+Tram ,286.28125,32
+Racecourse ,287.0,2
+Ice rink ,290.2162162162162,111
+Club/night club ,290.2984828496042,3032
+Human harm outdoors,291.00224971878515,889
+Cinema ,293.9103734439834,2410
+Library ,294.0284934828736,3299
+Central Government Office,295.30144167758846,1526
+Law Courts ,295.729392173189,1201
+Indoor Market ,296.0726872246696,454
+Leisure Centre ,299.3904966059307,5598
+Large supermarket ,302.67393690990264,13663
+Hostel (e.g. for homeless people) ,305.55704659166497,34577
+Local Government Office,306.8072108162243,1997
+Gym ,307.8373076923077,5200
+Pub/wine bar/bar ,308.4427230405251,13103
+Concert Hall ,309.1306990881459,329
+College/University ,310.6916326120453,14927
+Train station - concourse ,313.8409937888199,1610
+Department Store ,313.983932223196,3423
+Health Centre ,314.8318122555411,767
+Mosque ,315.1864951768489,311
+Swimming Pool ,315.18892045454544,704
+Ambulance station ,316.39506172839504,162
+Single shop ,317.15127221363264,52389
+Train station - platform (below ground) ,317.88391118036617,5134
+Cathedral ,318.35059760956176,251
+Takeaway/ fast food ,319.922820318423,6595
+Boarding House/B&B for homeless/asylum seekers ,320.16978109983984,5619
+Restaurant/cafe,320.28141532786486,20603
+Bingo Hall ,320.57620041753654,479
+Estate Agent ,320.71230158730157,504
+DIY Warehouse ,320.78864628820963,2290
+Casino ,321.4976744186047,430
+Bank/Building Society ,321.89401496259353,3208
+Hotel/motel ,322.6912642980059,19758
+Other entertainment venue ,322.8328729281768,1448
+Freight Train ,323.4102564102564,39
+Medical/health centre,323.42933507170795,7670
+Travel Agent ,323.55445544554453,101
+Shopping Centre ,323.6013359647791,6587
+Conference Centre ,324.1490514905149,369
+Purpose built office ,324.1921207961565,72850
+Exhibition Centre ,324.5065868263473,835
+TV/film/music/art studio ,325.89524782830864,1957
+Telephone exchange,326.08169533169536,1628
+Youth hostel ,326.97196892941577,2961
+Converted Flat/Maisonettes - 3 or more storeys,327.64670801279726,96583
+Hairdresser ,328.28776978417267,1251
+Cycle path/public footpath/bridleway ,328.3407942238267,4155
+Church/Chapel ,328.40673513255314,4187
+Bus/coach station/garage ,329.2231947483589,1371
+Train station - platform (at ground level or elevated) ,329.24897213339426,2189
+Call Centre ,329.69029850746267,1072
+Other medical establishment (including surgery) ,330.10311799470145,4907
+Football stadium ,330.63412489006157,1137
+Small refuse/rubbish container,331.0093470982143,50176
+Converted office ,331.15003133112526,11171
+Wheelie bin (domestic size),331.1586226768477,6941
+Other retail  ,331.4970668752444,2557
+Train station - elsewhere ,331.6531850353893,1978
+Ferry terminal ,332.1666666666667,24
+Doctors surgery,332.24226804123714,1940
+Other public building ,332.4612511671335,1071
+Hospital ,332.8884962352607,56312
+Electrical warehouse ,333.45045045045043,666
+Synagogue ,333.617915904936,547
+Sports/Social club ,333.65882855921336,2339
+Other office/call centre type building,333.6939477303989,1454
+Other education establishment,334.99902818270164,3087
+Petrol station ,335.05723006486073,2621
+Bakery,335.07750472589794,529
+Other cultural venue ,335.23796033994336,706
+Student Hall of Residence ,335.66861786113145,25967
+Art Gallery ,335.69446297531687,1499
+Dental surgery,335.8304347826087,920
+Secondary school,336.11612744495017,16258
+Pre School/nursery ,336.73269989243454,5578
+Community centre/Hall ,336.7747729149463,4844
+Animal products processing plant,337.3350785340314,191
+Boarding House/B&B other ,337.5064935064935,847
+Day care/Drop in centre,337.80528634361235,1135
+Self contained Sheltered Housing ,338.00140723409856,174811
+Sheltered Housing : not self contained ,338.1862491930278,3098
+Converted Flat/Maisonette - Up to 2 storeys ,338.5135996901827,77465
+Other holiday residence (cottage/ flat/ chalet) ,338.5975609756098,82
+Post office (within other shop/premises) ,338.635593220339,236
+Licensed House in Multiple Occupation - 3 or more storeys ,338.95229357798166,8175
+Veterinary surgery,339.24590163934425,305
+Temple ,339.469696969697,198
+Infant/Primary school,339.5755160433272,24465
+Bus/coach ,339.60366785532347,5889
+Road surface/pavement ,340.1642213404694,32511
+Other Religious Use Building,341.3210603829161,679
+Post box ,341.38085539714865,491
+Helicopter ,341.6326530612245,49
+Post office (purpose built) ,342.79425113464447,661
+Furniture warehouse ,342.88157894736844,760
+House in Multiple Occupation - 3 or more storeys (not known if licensed),343.1063122923588,2408
+Unlicensed House in Multiple Occupation - 3 or more storeys ,343.38659793814435,1164
+Telephone box ,343.7842401500938,533
+Shelter ,343.85336538461536,416
+Other bulk storage,343.88829471182413,1683
+Laundrette ,344.0400962309543,1247
+Sports Hall ,344.3319946452477,747
+Nurses'/Doctors' accommodation ,344.81830417227457,5944
+Public toilets ,345.24635761589406,755
+Monastery/convent ,345.5989583333333,192
+Railway building - other,345.6622516556291,755
+Kiosk ,346.4485294117647,136
+Multi-Storey car park,346.64028103044495,2135
+Common external bin storage area,346.8422907488987,6810
+Other indoor sporting venue ,347.0301724137931,464
+Health spa/farm,347.053125,320
+Train on Tube network,347.4823899371069,1590
+Large refuse/rubbish container (eg skip/ paladin),347.64829146326946,16798
+Laboratory/research Establishment ,347.88329979879273,994
+Royal Palace (part not open to public),348.025,120
+Greyhound stadium ,348.07575757575756,132
+Museum ,348.1415465268676,2289
+Cemetery ,348.2247752247752,1001
+Vehicle sales building,348.9466119096509,487
+Underground train : Other system ,350.32761904761907,525
+Children's Home,351.0425079702444,941
+Recycling collection point/ bottle bank,351.19321148825065,383
+Roadside furniture (eg lamp posts/ road signs/ telegraph poles/ speed cameras),351.2686246418338,2792
+House in Multiple Occupation - Up to 2 storeys (not known if licensed) ,351.70800872545965,3209
+Motorcycle ,351.7449460916442,11872
+Bridge,352.32794457274827,2165
+Cricket ground ,352.52830188679246,159
+Nursing/Care Home/Hospice,353.02676594888305,29814
+Retirement/Old Persons Home,353.37360051794656,63327
+Purpose Built Flats/Maisonettes - Up to 3 storeys ,354.7209439326218,263112
+Other outdoor sporting venue ,354.97447795823666,431
+Naval vessel ,355.15384615384613,13
+Ministry of Defence office,355.61290322580646,186
+Underground car park,355.96763202725725,2348
+Other retail warehouse ,356.0004111842105,2432
+Licensed House in Multiple Occupation - Up to 2 storeys ,356.2804724561913,10329
+Tenement Building ,356.6055437100213,469
+Unlicensed House in Multiple Occupation - Up to 2 storeys ,357.1984815618221,1844
+Other private non-residential building ,357.3225629791895,1826
+Passenger Train (national rail network) ,357.6552399608227,1021
+Other Residential Home ,357.73415265200515,3092
+Chemical plant,357.96,300
+Other car park structure,358.218487394958,1071
+Purpose Built Flats/Maisonettes - 4 to 9 storeys ,358.2548387634549,359906
+Printing works,359.46875,736
+Other building/use not known ,360.0647925033467,3735
+Other tent/marquee ,360.12666666666667,150
+Pipe or drain ,360.3650406504065,1230
+Other transport building ,360.49798387096774,496
+Other public utility works,361.79671457905545,974
+Refuse/rubbish tip ,363.28301036502927,6657
+Other Dwelling ,364.16475858636136,2009
+Barbecue,365.4204931972789,2352
+Cables ,365.5145945945946,1850
+Loose refuse ,366.7306803449636,35482
+Garden equipment ,367.26838966202786,1006
+Water works ,367.4451219512195,492
+Fence,368.30467899891187,4595
+Railway ,368.420580474934,1895
+Distillery plant,368.8358208955224,201
+Sports pavilion/shower block/changing facility ,369.46450723638867,1451
+Playground/Recreation area (not equipment),369.5417645085542,2981
+Other outdoor structures ,369.6533049040512,4690
+Railings,371.18997912317326,1437
+Railway goods yard ,371.6715328467153,137
+House - single occupancy ,372.2345745070499,313977
+Sea ,373.0,1
+Food and drink processing,373.38183890577506,2632
+Multiple Vehicles ,374.14470516483163,31153
+Camping tent ,374.24342105263156,152
+Other outdoor equipment/machinery ,374.87304847986854,2434
+Domestic garden (vegetation not equipment) ,374.9789245982695,32360
+Vehicle Repair Workshop,375.28329197684036,2418
+Warehouse ,375.57165000387505,12903
+Car ,375.71940266416476,102321
+Beach ,376.27272727272725,88
+Park ,377.3035636679704,13806
+Other industrial manufacturing facility,378.2479608482871,1226
+Manufacturing assembly plant,378.6270396270396,429
+Sewage works ,379.65346534653463,202
+Animal harm outdoors,379.95642201834863,436
+Boarding School accommodation ,381.33203883495145,515
+Landfill site ,381.82214156079857,551
+Other outdoor location ,382.1297489823609,5896
+Minibus ,382.2236842105263,228
+Private Summer house ,383.63085399449034,363
+Purpose Built Flats/Maisonettes - 10 or more storeys ,383.67313918419364,126329
+Other road vehicle,384.0281629116118,2308
+Van ,384.23056841105966,8427
+Indoor stadium ,385.07936507936506,63
+Roadside vegetation ,385.10456062291433,2697
+Railway trackside vegetation ,385.1632,1250
+Temporary office (eg portacabin) ,385.92075471698115,530
+Docks ,385.96,25
+Golf clubhouse,387.02163461538464,416
+Bulk oil storage,388.50467289719626,107
+Factory ,388.8188246769081,4101
+Engineering manufacturing plant,389.2586387434555,955
+Outdoor storage ,392.81538056360284,3797
+Hedge,393.9377480676833,4787
+Athletics Stadium ,394.26875,160
+Tree scrub ,394.7360079247152,16152
+Motor Home ,395.07063197026025,269
+Private Garden Shed ,396.35589553392055,6471
+Private garage ,396.7257110135522,5239
+Gas works ,397.4117647058824,136
+Mill ,397.61467889908255,218
+Tunnel/ subway ,398.883547008547,936
+Military/barracks ,399.6054421768707,147
+Electricity power station ,400.6021717670286,1013
+Bungalow - single occupancy ,401.0892886345053,6115
+Other industrial processing plant,401.6353149955634,1127
+Stately Home (part not open to public),403.84322033898303,236
+River/canal ,411.0959201388889,4608
+Lorry/HGV ,411.105609011969,4261
+Wasteland ,411.2244066171182,4171
+Freight plane ,412.56666666666666,30
+Caravan on tow ,414.4347826086956,207
+Trailer (not attached to tractor unit),414.5460122699387,163
+Private greenhouse ,414.69736842105266,76
+Trains - engine shed ,415.6923076923077,78
+Prison ,416.5537613233557,5078
+Other animal boarding/breeding establishment,417.99261992619927,271
+Mine or quarry building above ground,419.2,20
+Straw/stubble burning ,420.1475409836066,854
+Nurseries/ market garden ,420.4136363636364,220
+Canal/riverbank vegetation ,420.6593001841621,1086
+Grassland/ pasture/ grazing etc ,420.8848183325795,6633
+Scrub land ,424.2070441720179,5139
+Animal boarding/breeding establishment - cats,425.95,20
+Zoo ,426.61224489795916,49
+Bulk waste storage,426.65602836879435,282
+Agricultural vehicle,430.17391304347825,207
+Heathland ,430.2052590266876,2548
+Fishing boat ,430.77777777777777,27
+Other merchant vessel ,431.4166666666667,12
+Bulk hazardous materials storage,433.038961038961,77
+Towing caravan (not on tow or on site),433.35555555555555,360
+Theme Park ,434.027397260274,73
+Greenhouse (commercial) glass ,434.92857142857144,14
+Woodland/forest - broadleaf/hardwood ,435.0552441953563,1249
+Rugby Stadium ,435.32026143790847,153
+False Alarm - Property not found,435.8114953726254,4106
+Motor racing circuit ,436.27272727272725,11
+Passenger plane ,436.28665827564504,3178
+Tennis Courts ,436.31539888682744,539
+Bulk gas storage,439.48387096774195,62
+Barge ,439.7579487179487,975
+Houseboat (permanent dwelling) ,440.1978021978022,455
+Woodland/forest - conifers/softwood ,442.1438679245283,1272
+Recycling plant,444.79556962025316,1580
+Other agricultural building ,446.16470588235296,85
+Road Tanker ,447.05309734513276,113
+Golf course (not building on course),447.7363344051447,311
+Airport - hangar ,450.02952029520293,271
+Other vessel ,451.6666666666667,588
+Mine or quarry (not above ground building),452.875,24
+Lake/pond/reservoir ,453.62304147465437,1085
+Caravan/Mobile home (permanent dwelling),456.9465648854962,393
+Large passenger vessel ,458.83660130718954,153
+Castle (part not open to public),464.0,6
+Motor yacht ,465.0228310502283,219
+Airfield/runway ,466.9904761904762,210
+Agricultural equipment ,467.3392857142857,56
+Oil refinery ,467.83870967741933,31
+Intensive Farming Sheds (chickens/ pigs etc) ,467.84444444444443,45
+Tractor Shed ,470.60869565217394,23
+Airport building (not terminal or hangar) ,484.83140283140284,1554
+Airport - terminal ,485.8940316686967,5747
+Greenhouse (commercial) polytunnel ,487.0,2
+Towing caravan/Camper van on site,487.21,100
+Animal boarding/breeding establishment - dogs,488.80357142857144,56
+Young offenders unit ,493.934328358209,670
+Barn ,496.22758620689655,145
+Stacked/baled crop ,500.75324675324674,154
+Other aircraft,505.2112676056338,71
+Airport - fuel storage ,505.6666666666667,15
+Military plane ,515.0,1
+Boat - Tanker,529.1428571428571,7
+Standing crop ,536.9041916167664,167
+Light aircraft ,585.1066666666667,75
+Silo ,622.0,3
